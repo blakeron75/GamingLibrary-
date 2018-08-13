@@ -1,0 +1,22 @@
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\bin\Debug\GamingLibary.exe.config
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\bin\Debug\GamingLibary.exe
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\bin\Debug\GamingLibary.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.csprojResolveAssemblyReference.cache
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.Form1.resources
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.Properties.Resources.resources
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.csproj.GenerateResource.Cache
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.exe
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\obj\Debug\GamingLibary.pdb
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\bin\Debug\Database1.mdf
+c:\users\ronald\documents\visual studio 2015\Projects\GamingLibary\GamingLibary\bin\Debug\Database1_log.ldf
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\bin\Debug\GamingLibary.exe.config
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.exe
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.pdb
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\bin\Debug\Database1.mdf
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\bin\Debug\Database1_log.ldf
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\bin\Debug\GamingLibary.exe
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\bin\Debug\GamingLibary.pdb
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.Form1.resources
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.Properties.Resources.resources
+C:\Users\Ronald\Documents\cen4370\Final\GamingLibary\GamingLibary\obj\Debug\GamingLibary.csproj.GenerateResource.Cache
